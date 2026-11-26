@@ -11,8 +11,15 @@ A first-person psychological horror game made in Godot 4: a two-storey farmhouse
 Headphones recommended. Runs on old PCs too (tested on a GeForce GT 730, OpenGL); graphics presets in Settings.
 
 ![Outside](screenshots/r_out.jpg)
-![Living room](screenshots/r_liv.jpg)
+![Hallway](screenshots/hallway.jpg)
+![Staircase](screenshots/stairs.jpg)
 ![Kitchen](screenshots/kitchen.jpg)
+![Study](screenshots/study.jpg)
+
+## What's New in v2.0
+- **Fears to Fathom Visual Overhaul:** Retro VHS/camcorder post-processing shader, matte non-reflective walls/floors, and warm tungsten interior lighting across both floors.
+- **Detailed Rooms & Props:** 2nd-floor bedroom & study with usable Desktop PC, green-shaded banker's desk lamp, hanging green pendant lamp, rotary phone, sculpted 3D beds/pillows/blankets, framed portraits & paintings, hallway coat/key rack, and kitchen details.
+- **Weightier Controls & GT 730 Optimization:** Smoother performance on older GPUs and heavier player/door feel.
 
 
 October 14, 2003. You and your dad drive out to Grandma's old house on Hollow Creek Road to pack up her things. Dad goes back to town. His car breaks down. You're alone for the night, and the old man across the road warns you: if you see a woman out on the road tonight, don't look at her.
